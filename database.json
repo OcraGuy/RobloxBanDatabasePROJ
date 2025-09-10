@@ -1,0 +1,17 @@
+[
+  {
+    "username": "TrollGuy123",
+    "reason": "Exploiting",
+    "expires": null
+  },
+  {
+    "username": "Spammer456",
+    "reason": "Spam",
+    "expires": "2025-09-12T20:00:00Z"
+  },
+  {
+    "username": "NicePlayer",
+    "reason": "Toxicity",
+    "expires": "2025-09-11T20:00:00Z"
+  }
+]
